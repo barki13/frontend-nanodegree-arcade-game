@@ -1,29 +1,4 @@
 body {
     text-align: center;
-    margin: 0;
-	font-family: 'Roboto Mono';
-	background-color: #252525;	
+    
 }
-
-#container {
-	display: table; 
-	height: 100px;
-	width: 100%; 
-	overflow: hidden;
-}
-.header {
-
-	vertical-align: middle;
-	color: #CFE13D;
-	font-size: 3em;
-}
-
-#score-board {
-	display: table-cell; 
-	vertical-align: middle;
-	background-color: #FD589C;
-	color: #CFE13D;
-	font-size: 3em;
-}
-
-

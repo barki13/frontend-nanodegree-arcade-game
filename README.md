@@ -1,10 +1,8 @@
-Frogger - Part of Udacity's front end nano-degree
-===============================
 
-## A classic arcade game built with object-orientated Javascipt.
-
-I built this game to practice writing object-orientated javascript. app.js, the css and html is my own code, while resources.js and engine.js (apart from some tweaks) were provided by Udacity. 
-
-To play the game, simply click the link next to repo decription, or download the repo and open index.html in your browser. The game uses keyboard input, so users use keyboard arrows to move the player around the board, collecting points and avoinding enemies. 
-
+* The user plays as the princess.
+* Use the directional arrow keys to move.
+* Travel from the grass to the water while avoiding the incoming lady bugs.
+* If you get hit the game and your score resets.
+* Collecting any of the gems earns you an additional point.
+* There is only one set of gems per life, they do not respawn.
 
